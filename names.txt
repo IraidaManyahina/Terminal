@@ -1,7 +1,10 @@
-1)Irina
-2)Denis
-3)Kristina
-4)Alex
-5)Nikita
-6)Igor
-7)Mark
+1) Irina
+2) Denis
+3) Kristina
+4) Alex
+5) Nikita
+6) Igor
+7) Mark
+8) Anna
+9) Nika
+10) Vika
